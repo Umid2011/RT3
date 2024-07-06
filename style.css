@@ -1,0 +1,33 @@
+i{
+    font-size: 40px;
+    margin: -150px 10px;
+}
+.best{
+    border-style: solid ;
+}
+.rt{
+    background: url(https://cs7.pikabu.ru/post_img/big/2019/07/07/5/156248322715780690.jpg);
+    width: 1290px;
+    height: 550px;
+    background-repeat: no-repeat ;
+    background-size: cover ;
+}
+.h11{
+    margin: 0px 550px;
+}
+h2{
+    margin: -30px 50px;
+}
+.h12{
+    color: white;
+    margin: 250px 0px;
+}
+.p1{
+    color: white;
+    margin: -250px 0px;
+    width: 350px;
+}
+button{
+    margin: 250px 0px;
+    padding: 5px;
+}
